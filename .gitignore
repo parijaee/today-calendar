@@ -1,0 +1,16 @@
+*~
+meta/0.*
+meta/m0*
+meta/password.properties
+meta/*.csv
+*.class
+meta/apps/*
+bin
+gen
+.settings
+.classpath
+.DS_Store
+*_src/
+*_test/
+build.xml
+local.properties
